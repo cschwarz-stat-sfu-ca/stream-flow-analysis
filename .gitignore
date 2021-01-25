@@ -1,0 +1,17 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
+
+
+# Make sure HYDAT itself isn't committed.
+*.sqlite3
+.Rproj.user
+
+#ignore .html
+.html
